@@ -25,7 +25,7 @@
     "angular2-toaster": "^8.0.0",
     "angularjs-toast": "^4.0.0",
     "bootstrap": "^4.4.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "jquery": "^3.5.0",
     "ng6-toastr-notifications": "^1.0.4",
     "ngx-bootstrap": "^5.3.2",
